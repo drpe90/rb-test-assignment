@@ -1,0 +1,92 @@
+html {
+  background: #e5e5e5;
+}
+
+.hat-top {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.logo-text {
+  background-color: #ffffff;
+  color: #0dbc91;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.logo-text:hover {
+  color: #198766;
+}
+
+
+
+.btn-color {
+  background-color: #0dbc91;
+  color: white;
+}
+
+.btn-color:hover {
+  background-color: #198766;
+  color: black;
+}
+
+#navbarNav:hover {
+  color: #198766;
+}
+
+.colorful {
+  background: #f8fbfa;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.navbar-top {
+  background-color: #1fa181;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.navbar-top li a {
+  color: #ffffff;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.navbar-top li a:hover {
+  color: black;
+}
+
+.checkup-bg {
+    background-color: #e2f0ef;
+}
+
+.navbar-bottom {
+    background-color: #08664f;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.bottom-logo-text {
+    color: white;
+}
+
+.bottom-logo-text:hover {
+    color: lightgray;
+}
+
+.navbar-bottom li a {
+    color: #ffffff;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.navbar-bottom li a:hover {
+    color: black;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+
+footer {
+  background-color: #198766;
+}
+
